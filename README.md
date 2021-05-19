@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Adam!</h1>
-<h3 align="center">.NET Developer Student living in Gothenburg</h3>
+<h3 align="center">.NET Developer student with a passion for App Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adambrodin&label=Profile%20views&color=0e75b6&style=flat" alt="adambrodin" /> </p>
 
