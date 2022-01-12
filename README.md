@@ -1,18 +1,37 @@
-<h1 align="center">Hello there, I'm Adam!</h1>
-<h3 align="center">.NET Developer student with a passion for App Development</h3>
+<div class="about-me" align="center">
+<h1>Adam Brodin <img src="https://komarev.com/ghpvc/?username=adambrodin&label=Profile%20views&color=0e75b6&style=flat" alt="adambrodin"> </h1>
+<p>20 years old from Sweden</p>
+<div class="stat-cards" align="center">
+  
+![Adam Brodin](https://github-readme-stats.vercel.app/api?username=AdamBrodin&show_icons=true&theme=tokyonight)
+</div>
+<div class="technologies" align="center">
+<h2>Technologies</h2>
+  
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter&logoColor=5CC6F8)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet&logoColor=6D409D)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=DD0031)
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=nestjs&logoColor=EA2845)
+![React](https://img.shields.io/badge/-React%20(learning)-000?&logo=react&logoColor=61DBFB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=336791)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05134)
+  
+</div>
+  
+<div class="languages" align="center">
+<h2>Languages</h2>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adambrodin&label=Profile%20views&color=0e75b6&style=flat" alt="adambrodin" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/brodinadam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="brodinadam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adam-brodin-887526192" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adam-brodin-887526192" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4753747" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4753747" height="30" width="40" /></a>
-<a href="https://fb.com/adam.brodin.0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="adam.brodin.0" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adambrodin&show_icons=true&locale=en" alt="adambrodin" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adambrodin&" alt="adambrodin" /></p>
+![C#](https://img.shields.io/badge/-csharp-000?&logo=c-sharp&logoColor=3A0093)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=C17802)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=2CB7F6)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=E76F00)
+</div>
+  
+<div class="projects" align="center">
+<h2>Projects</h2>
+  
+[My App](https://play.google.com/store/apps/details?id=com.adambrodin.realtidfonder)
+ </div>
+</div>
