@@ -12,7 +12,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter&logoColor=5CC6F8)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=DD0031)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=nestjs&logoColor=EA2845)
-![React](https://img.shields.io/badge/-React%20(learning)-000?&logo=react&logoColor=61DBFB)
+![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DBFB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=336791)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05134)
   
