@@ -15,7 +15,8 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DBFB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=336791)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05134)
- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=7211f7)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=0db7ed)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=7211f7)
   
 </div>
   
